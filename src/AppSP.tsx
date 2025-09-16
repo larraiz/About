@@ -19,7 +19,7 @@ export default function AppSP() {
 
   const contact = {
     email: "larraiz@outlook.com",
-    phone: "+1 407-693-1103",
+    phone: "+1 ",
   };
 
   // const accordionItems = [
