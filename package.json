@@ -2,7 +2,7 @@
   "name": "luis-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://larraiz.github.io/",
+  "homepage": "https://larraiz.github.io/About/",
   "type": "module",
   "scripts": {
      "predeploy": "npm run build",
